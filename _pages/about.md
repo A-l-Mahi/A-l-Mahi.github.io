@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://atbu.edu.ng/'>Affiliations</a>. Dass Road, Abubakar Tafawa Balewa University.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bauchi, Nigeria</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,5 +20,5 @@ Doumo("Hey" in Japanese)!
 
 Welcome to my personal page.
 
-I am a Data Analyst and MSc student at Abubakar Tafawa Balewa Univesity. I am current developing my research interest, for now it is model generalization (too broad).
-I am loooking for opportunites in ML Research to futher develop myself as research.
+I am a Data Analyst and MSc student at Abubakar Tafawa Balewa University. I am current developing my research interest, for now it is model generalization (too broad).
+I am looking for opportunities in ML Research to my career as an ML researcher.
