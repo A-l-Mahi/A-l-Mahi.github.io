@@ -1,2 +1,2 @@
 # This is dono's website repo
-### You can have your own by forking the alshedivat/al-folio and edit
+Create you own by forking [alshedivat/al-folio](https://github.com/alshedivat/al-folio)
