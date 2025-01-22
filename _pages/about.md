@@ -22,4 +22,4 @@ Welcome to my personal page.
 
 I am an independent ML researcher and a second-year MSc student at Abubakar Tafawa Balewa University. I completed my degree in Computer Science at Al-Qalam University Katsina in 2023. My research interests span the field of representation learning, where I am particularly intrigued by how machine learning models can learn meaningful representations. This has led me to explore areas like causal representation learning, transfer learning, and reinforcement learning.
 
-I am currently seeking for research internship roles
+I am currently seeking research internship roles
