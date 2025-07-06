@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am now the **Lead** <a href = "https://datasciencenigeria.org/" >Data Science Nigeria</a> Bauchi chapter.
+I am now the **City Lead** <a href = "https://datasciencenigeria.org/" >Data Science Nigeria</a> Bauchi chapter.
