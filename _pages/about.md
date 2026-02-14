@@ -20,4 +20,5 @@ Doumo("Hey" in Japanese)!
 
 Welcome to my personal page.
 
-I am an independent ML researcher and a second-year MSc student at Abubakar Tafawa Balewa University. I completed my degree in Computer Science at Al-Qalam University Katsina in 2023. My research interests span the field of representation learning, where I am particularly intrigued by how machine learning models can learn meaningful representations. This has led me to explore areas like causal representation learning, transfer learning, and reinforcement learning.
+I am an independent ML researcher and a second-year MSc student at Abubakar Tafawa Balewa University. I completed my degree in Computer Science at Al-Qalam University Katsina in 2023. My research focuses on causal representation learning and inductive biases — specifically, how incorporating causal structure into learned representations can improve robustness and out-of-distribution generalization, with applications in low-resource
+NLP and public health.
