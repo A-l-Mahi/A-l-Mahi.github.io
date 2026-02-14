@@ -140,7 +140,7 @@
         \LenToUnit{\paperwidth-2 cm-0 cm+0.05cm},
         \LenToUnit{\paperheight-1.0 cm}
     ){\vtop{{\null}\makebox[0pt][c]{
-        \small\color{gray}\textit{Last updated in July 2025}\hspace{\widthof{Last updated in July 2025}}
+        \small\color{gray}\textit{Last updated in February 2026}\hspace{\widthof{Last updated in February 2026}}
     }}}%
   }%
 }%
@@ -187,12 +187,12 @@
 
     \section{RESEARCH INTERESTS}
         \begin{onecolentry}
-        My research focuses on how machine learning and deep learning models learn meaningful representations, with a particular emphasis on causal representation learning, inductive biases, and reinforcement learning.
+        My research focuses on causal representation learning and inductive biases — specifically, how incorporating causal structure into learned representations can improve robustness and out-of-distribution generalization, with applications in low-resource NLP and public health.
         \end{onecolentry}  
   
     \section{EDUCATION}
         \begin{twocolentry}{
-            2023 – Present
+            2023 – 2026 (Expected)
         }
             \textbf{M.Sc., Computer Science}, Abubakar Tafawa Balewa University, Nigeria\newline
             \textit{Thesis:} Location-agnostic Water Quality Model \newline
@@ -213,7 +213,7 @@
         \begin{twocolentry}{
             2024 – Present
         }
-            \textbf{Independent Researcher} \newline
+            \textbf{Research Collaborator} \newline
             \textit{ML Collective (Remote)}
         \end{twocolentry}
         \begin{onecolentry}
@@ -232,7 +232,7 @@
             \begin{itemize}
                 \item Curated a low-resource Hausa dataset by extracting and cleaning 500+ text entries from Al-Barka radio station's news archives
                 \item Applied advanced data cleaning techniques to transform 2,000+ raw Hausa news entries into a structured CSV dataset
-                \item Collaborated on dataset enhancement by introducing categorization and optional labeling, improving data usability by 30\%
+                \item Collaborated on dataset enhancement by introducing categorization and optional labeling, enabling downstream use in Kaggle competitions and applications in NER, sentiment analysis, and machine translation for Hausa language.
             \end{itemize}
         \end{onecolentry}
 
@@ -281,7 +281,7 @@
             \textbf{Machine Learning Summer School (MLSS)} – Participant
         \end{twocolentry}
         \begin{onecolentry}
-            Selected to attend advanced ML training led by top global researchers
+            Selected to attend advanced ML training covering NLP, optimization, reinforcement learning, optimal transport, diffusion models, federated learning, and foundation models, led by researchers from Google, NYU, Apple, and KAUST.
         \end{onecolentry}
         
         \vspace{0.2 cm}
@@ -409,17 +409,7 @@
             \textbf{ML/AI Frameworks:} PyTorch, TensorFlow, Hugging Face, Scikit-learn \\
             \textbf{Web Frameworks \& Tools:} Django, Django REST API, Git/GitHub \\
             \textbf{Cloud Platforms:} Microsoft Azure, AWS \\
-            \textbf{Operating Systems:} Linux \\
-            \textbf{Data Analysis:} Pandas, NumPy, Matplotlib, Seaborn
-        \end{onecolentry}
-
-    \section{RELEVANT COURSES}
-        \begin{onecolentry}
-            \begin{itemize}
-                \item[-] Machine Learning Specialization, Coursera – DeepLearning.ai \& Stanford \hfill 2024
-                \item[-] Statistical Inference, Coursera – Johns Hopkins University \hfill 2023
-                \item[-] Data Science: Foundations using R Specialization, Coursera – Johns Hopkins University \hfill 2022
-            \end{itemize}
+            \textbf{Causal Inference \& Experiment Tools:} DoWhy, EconML, Weights \& Biases
         \end{onecolentry}
 
     \placelastupdatedtext
