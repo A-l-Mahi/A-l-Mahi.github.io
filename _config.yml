@@ -46,7 +46,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -68,8 +68,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: A-l-Mahi
 x_username: AminuMahi
-linkedin_username: Mahi Aminu Aliyu
-scholar_userid: #qc6CJjYAAAAJ # your Google Scholar ID
+linkedin_username: mahi-aminu-aliyu
+scholar_userid: 3EXwiU8AAAAJ # your Google Scholar ID
 
 contact_note: >
   Reach out to me preferably through email.
@@ -143,7 +143,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -188,6 +188,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - assets/jupyter/
   - vendor
 keep_files:
   - CNAME
