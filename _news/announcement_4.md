@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I bagged my BSc degree in Computer Science from Al-Qalam univesity Katsina, YAY! :sparkles:
+I bagged my BSc degree in Computer Science from Al-Qalam University Katsina, YAY! :sparkles:

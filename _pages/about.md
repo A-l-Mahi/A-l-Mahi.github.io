@@ -1,18 +1,18 @@
 ---
 layout: about
-title: my page!
+title: about
 permalink: /
-subtitle: <a href='https://atbu.edu.ng/'>Abubakar Tafawa Balewa Univesity, Bauchi</a>. Dass Road, Bauchi.
+subtitle: <a href='https://atbu.edu.ng/'>Abubakar Tafawa Balewa University, Bauchi</a>. Dass Road, Bauchi.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bauchi, Nigeria</p>
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 

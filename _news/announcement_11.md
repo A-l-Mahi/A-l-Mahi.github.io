@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our preprint "Effect of Domain Generalization Techniques in Low Resource Systems" on is now available on archive. <a href = "https://arxiv.org/abs/2510.27512">arXiv:2510.27512</a>
+Our preprint "When Distributions Shift: Causal Generalization for Low-Resource Languages" is now available on arXiv. <a href = "https://arxiv.org/abs/2510.27512">arXiv:2510.27512</a>
 
 
