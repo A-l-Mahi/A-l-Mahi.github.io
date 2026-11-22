@@ -1,3 +1,6 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Map a coauthor's last name (lowercase) to their first-name variants and homepage,
+# so their name is linked on the publications page. Example:
+# "farid":
+#   - firstname: ["Karim", "K."]
+#     url: https://example.com
+{}

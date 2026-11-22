@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 I joined Africa Hub for Innovation and Development (AHFID) as Artificial Intelligence and Social Informatics Associate
-
-

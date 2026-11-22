@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 I will be attending Deep Learning Indaba 2025 in Kigali. #URUNANA
-
-

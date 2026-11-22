@@ -1,6 +1,45 @@
 ---
 ---
 
+@misc{aliyu2026interpolation,
+  abbr={Preprint},
+  title={Between Memorization and Generalization: An Interpolation Regime in Learning Dynamics},
+  author={Aliyu, Mahi Aminu and Imran, Ahmad and Farid, Karim},
+  year={2026},
+  note={Preprint},
+  pdf={Aliyu2026_interpolation_regime.pdf},
+  bibtex_show={true},
+  selected={true},
+  abstract={Grokking marks the onset of generalization, but not how it unfolds. We study the structure of this transition by separating held-out problems according to whether they can be solved by interpolating from what the model has already seen. In the in-context modular-arithmetic setting of He et al. (2024), who identified two algorithms mechanistically in trained transformers, we follow both through training. Transformers first acquire Ratio Matching, which rescales a single in-context example. Only later, and only with enough context, do they acquire Modular Regression, which combines several examples and reaches beyond interpolation. Shallower models remain confined to Ratio Matching. We observe the same ordering in a controlled family of compositional tasks. Transformers first solve the held-out tasks that are recoverable as least-squares blends of training tasks, and solve the remaining tasks only later. The standard held-out threshold is crossed before this second transition, and MLPs of the same size rarely progress beyond interpolation. The ordering persists under controls for threshold choice and group size and, for MLPs, is not accounted for by task difficulty. More diverse training tasks shorten the interpolation window, whereas harder tasks stretch it. These results suggest that the transition from memorization to generalization is not a single global event, but a sequence of staggered capability transitions that aggregate evaluation collapses into one. We discuss whether this intermediate regime may contribute to plausible-but-incorrect predictions in larger models, including hallucinations.}
+}
+
+@article{aliyu2026scoping,
+  abbr={ES\&T Water},
+  title={A Scoping Review of How Far Transfer Learning Reaches in Data-Scarce Water-Quality Prediction},
+  author={Aliyu, Mahi Aminu and Ya'u, Badamasi Imam and Gital, Abdulsalam Ya'u},
+  journal={ACS ES\&T Water},
+  year={2026},
+  note={Accepted, undergoing revision},
+  protocol={https://doi.org/10.17605/OSF.IO/VYAFU},
+  code={https://doi.org/10.5281/zenodo.23459116},
+  bibtex_show={true},
+  selected={true}
+}
+
+@inproceedings{oduwole2026africaption,
+  abbr={AfricaNLP},
+  title={AfriCaption: Establishing a New Paradigm for Image Captioning in African Languages},
+  author={Oduwole, Mardiyyah and Mireku, Prince and Adebanjo, Fatimo and Olajide, Oluwatosin and Aliyu, Mahi Aminu and Novikova, Jekaterina},
+  booktitle={Proceedings of the 7th Workshop on African Natural Language Processing (AfricaNLP), co-located with EACL 2026},
+  pages={44--55},
+  publisher={Association for Computational Linguistics},
+  year={2026},
+  arxiv={2510.17405},
+  bibtex_show={true},
+  selected={true},
+  abstract={Multimodal AI research has overwhelmingly focused on high-resource languages, hindering the democratization of advancements in the field. To address this, we present AfriCaption, a comprehensive framework for multilingual image captioning in 20 African languages and our contributions are threefold: (i) a curated dataset built on Flickr8k, featuring semantically aligned captions generated via a context-aware selection and translation process; (ii) a dynamic, context-preserving pipeline that ensures ongoing quality through model ensembling and adaptive substitution; and (iii) the AfriCaption model, a 0.5B parameter vision-to-text architecture that integrates SigLIP and NLLB200 for caption generation across under-represented languages. This unified framework ensures ongoing data quality and establishes the first scalable image-captioning resource for under-represented African languages, laying the groundwork for truly inclusive multimodal AI.}
+}
+
 @article{aliyu2025causal,
   abbr={arXiv},
   title={When Distributions Shift: Causal Generalization for Low-Resource Languages},
@@ -13,14 +52,17 @@
   abstract={Machine learning models often fail under distribution shifts, a problem exacerbated in low-resource settings where limited data restricts robust generalization. Domain generalization (DG) methods address this challenge by learning representations that remain invariant across domains, frequently leveraging causal principles. In this work, we study two causal DG approaches for low-resource natural language processing. First, we apply causal data augmentation using GPT-4o-mini to generate counterfactual paraphrases for sentiment classification on the NaijaSenti Twitter corpus in Yoruba and Igbo. Second, we investigate invariant causal representation learning with the Debiasing in Aspect Review (DINER) framework for aspect-based sentiment analysis. We extend DINER to a multilingual setting by introducing Afri-SemEval, a dataset of 17 languages translated from SemEval-2014 Task. Experiments show improved robustness to unseen domains, with consistent gains from counterfactual augmentation and enhanced out-of-distribution performance from causal representation learning across multiple languages.}
 }
 
-@inproceedings{oduwole2026africaption,
-  abbr={AfricaNLP},
-  title={AfriCaption: Establishing a New Paradigm for Image Captioning in African Languages},
-  author={Oduwole, Mardiyyah and Mireku, Prince and Adebanjo, Fatimo and Olajide, Oluwatosin and Aliyu, Mahi Aminu and Novikova, Jekaterina},
-  booktitle={Proceedings of the 7th Workshop on African Natural Language Processing (AfricaNLP), co-located with EACL 2026},
-  year={2026},
-  arxiv={2510.17405},
+@article{aliyu2025jistm,
+  abbr={JISTM},
+  title={Analysis of Machine Learning Models for Efficient Water Quality Prediction},
+  author={Aliyu, Mahi and Abubakar, Mansir and Umar, Armaya'u Z. and Rashed, Alwatben Batoul and Ismail, Rukayya Musa},
+  journal={Journal of Information System and Technology Management},
+  volume={10},
+  number={40},
+  month={sep},
+  year={2025},
+  doi={10.35631/JISTM.1040010},
+  html={https://gaexcellence.com/index.php/jistm/article/view/5933},
   bibtex_show={true},
-  selected={true},
-  abstract={Multimodal AI research has overwhelmingly focused on high-resource languages, hindering the democratization of advancements in the field. To address this, we present AfriCaption, a comprehensive framework for multilingual image captioning in 20 African languages and our contributions are threefold: (i) a curated dataset built on Flickr8k, featuring semantically aligned captions generated via a context-aware selection and translation process; (ii) a dynamic, context-preserving pipeline that ensures ongoing quality through model ensembling and adaptive substitution; and (iii) the AfriCaption model, a 0.5B parameter vision-to-text architecture that integrates SigLIP and NLLB200 for caption generation across under-represented languages. This unified framework ensures ongoing data quality and establishes the first scalable image-captioning resource for under-represented African languages, laying the groundwork for truly inclusive multimodal AI.}
+  abstract={Water plays a vital role in every aspect of human life, including the metabolism of organisms, industrial manufacturing of goods, and so on. Since water is essential to humanity and is used to improve our way of life, it will be a front-line challenge to humanity if it is heavily contaminated by their activities. In this study, a system that determines an efficient Machine Learning (ML) Model for better water quality prediction is proposed. The performance of the proposed model is evaluated in two different directions: the classification accuracy and the model accuracy in terms of quality (precision) and quantity (recall) of the prediction output. It is identified that the classification accuracy of the Random Forest algorithm appears to be the best model for water quality prediction on the obtained dataset. Random Forest outperforms other algorithms with the best accuracy score of 0.87 as against the XGBoost with 0.86. The model will be useful for treatment plants by automating and training the procedure of determining the quality of the water sample since the water quality of the water sample must be identified to determine the right amount of chemicals to be introduced for the water sample to be potable. In the near future, this work is aimed to be deployed with Flask to provide an interactive interface for users with a non-technical background to use the standard parameters in assessing the quality of water being used for daily activities.}
 }
